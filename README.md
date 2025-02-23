@@ -34,6 +34,4 @@ The Road   Netlify Status
 
 Wine House   Netlify Status
 
-🎓 Academic Honesty
-DO NOT COPY FOR AN ASSIGNMENT - Avoid plagiargism and adhere to the spirit of this Academic Honesty Policy.
 

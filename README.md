@@ -9,8 +9,10 @@ Author Links
 
 🚀 Follow Me:
 
-Twitter/n
-LinkedIn/n
+Twitter
+
+LinkedIn
+
 10 Mega Projects created using SCSS, JS and different technologies
 Apple Ecommerce   Netlify Status
 
